@@ -1,0 +1,13 @@
+2 3
+Nguyen Thi Mai
+Cao Thuc Linh
+a
+b
+c
+
+a		b
+b		c
+c		c
+
+
+
